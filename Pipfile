@@ -1,0 +1,19 @@
+#[[source]]
+#url = "https://pypi.org/simple"
+#verify_ssl = true
+#name = "pypi"
+
+[[source]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = true
+name = "tsinghua"
+
+[packages]
+pygame = "==2.5.1"
+pipfile = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+python_full_version = "3.9.13"
