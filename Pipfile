@@ -11,6 +11,7 @@ name = "tsinghua"
 [packages]
 pygame = "==2.5.1"
 pipfile = "*"
+django = "*"
 
 [dev-packages]
 
