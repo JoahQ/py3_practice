@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 1)
+
+50. What is the capital of Michigan?
+ A. ['Austin', 'Indianapolis', 'Lansing', 'Frankfort']
+ B. ['Austin', 'Indianapolis', 'Lansing', 'Frankfort']
+ C. ['Austin', 'Indianapolis', 'Lansing', 'Frankfort']
+ D. ['Austin', 'Indianapolis', 'Lansing', 'Frankfort']
+

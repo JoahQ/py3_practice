@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 32)
+
+50. What is the capital of Indiana?
+ A. ['Indianapolis', 'Boise', 'Little Rock', 'Saint Paul']
+ B. ['Indianapolis', 'Boise', 'Little Rock', 'Saint Paul']
+ C. ['Indianapolis', 'Boise', 'Little Rock', 'Saint Paul']
+ D. ['Indianapolis', 'Boise', 'Little Rock', 'Saint Paul']
+

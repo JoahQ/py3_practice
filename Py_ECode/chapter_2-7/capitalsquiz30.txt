@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 30)
+
+50. What is the capital of North Dakota?
+ A. ['Carson City', 'Baton Rouge', 'Frankfort', 'Bismarck']
+ B. ['Carson City', 'Baton Rouge', 'Frankfort', 'Bismarck']
+ C. ['Carson City', 'Baton Rouge', 'Frankfort', 'Bismarck']
+ D. ['Carson City', 'Baton Rouge', 'Frankfort', 'Bismarck']
+

@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 7)
+
+50. What is the capital of Illinois?
+ A. ['Lansing', 'Sacramento', 'Honolulu', 'Springfield']
+ B. ['Lansing', 'Sacramento', 'Honolulu', 'Springfield']
+ C. ['Lansing', 'Sacramento', 'Honolulu', 'Springfield']
+ D. ['Lansing', 'Sacramento', 'Honolulu', 'Springfield']
+

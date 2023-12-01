@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 25)
+
+50. What is the capital of Nebraska?
+ A. ['Augusta', 'Lincoln', 'Frankfort', 'Juneau']
+ B. ['Augusta', 'Lincoln', 'Frankfort', 'Juneau']
+ C. ['Augusta', 'Lincoln', 'Frankfort', 'Juneau']
+ D. ['Augusta', 'Lincoln', 'Frankfort', 'Juneau']
+

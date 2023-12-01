@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 28)
+
+50. What is the capital of Kentucky?
+ A. ['Frankfort', 'Richmond', 'Indianapolis', 'Columbia']
+ B. ['Frankfort', 'Richmond', 'Indianapolis', 'Columbia']
+ C. ['Frankfort', 'Richmond', 'Indianapolis', 'Columbia']
+ D. ['Frankfort', 'Richmond', 'Indianapolis', 'Columbia']
+

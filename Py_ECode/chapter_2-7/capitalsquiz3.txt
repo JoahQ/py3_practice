@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 3)
+
+50. What is the capital of Kansas?
+ A. ['Saint Paul', 'Topeka', 'Salt Lake City', 'Carson City']
+ B. ['Saint Paul', 'Topeka', 'Salt Lake City', 'Carson City']
+ C. ['Saint Paul', 'Topeka', 'Salt Lake City', 'Carson City']
+ D. ['Saint Paul', 'Topeka', 'Salt Lake City', 'Carson City']
+

@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 19)
+
+50. What is the capital of Colorado?
+ A. ['Harrisburg', 'Richmond', 'Denver', 'Frankfort']
+ B. ['Harrisburg', 'Richmond', 'Denver', 'Frankfort']
+ C. ['Harrisburg', 'Richmond', 'Denver', 'Frankfort']
+ D. ['Harrisburg', 'Richmond', 'Denver', 'Frankfort']
+

@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 17)
+
+50. What is the capital of Oregon?
+ A. ['Columbus', 'Jefferson City', 'Salem', 'Helena']
+ B. ['Columbus', 'Jefferson City', 'Salem', 'Helena']
+ C. ['Columbus', 'Jefferson City', 'Salem', 'Helena']
+ D. ['Columbus', 'Jefferson City', 'Salem', 'Helena']
+

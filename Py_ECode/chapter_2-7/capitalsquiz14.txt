@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 14)
+
+50. What is the capital of New York?
+ A. ['Annapolis', 'Nashville', 'Columbia', 'Albany']
+ B. ['Annapolis', 'Nashville', 'Columbia', 'Albany']
+ C. ['Annapolis', 'Nashville', 'Columbia', 'Albany']
+ D. ['Annapolis', 'Nashville', 'Columbia', 'Albany']
+

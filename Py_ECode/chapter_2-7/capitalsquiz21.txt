@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 21)
+
+50. What is the capital of Hawaii?
+ A. ['Santa Fe', 'Honolulu', 'Charleston', 'Raleigh']
+ B. ['Santa Fe', 'Honolulu', 'Charleston', 'Raleigh']
+ C. ['Santa Fe', 'Honolulu', 'Charleston', 'Raleigh']
+ D. ['Santa Fe', 'Honolulu', 'Charleston', 'Raleigh']
+

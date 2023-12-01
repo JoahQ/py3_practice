@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 9)
+
+50. What is the capital of Hawaii?
+ A. ['Honolulu', 'Jackson', 'Madison', 'Raleigh']
+ B. ['Honolulu', 'Jackson', 'Madison', 'Raleigh']
+ C. ['Honolulu', 'Jackson', 'Madison', 'Raleigh']
+ D. ['Honolulu', 'Jackson', 'Madison', 'Raleigh']
+

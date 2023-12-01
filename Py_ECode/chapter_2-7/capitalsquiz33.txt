@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 33)
+
+50. What is the capital of Illinois?
+ A. ['Annapolis', 'Springfield', 'Hartford', 'Columbus']
+ B. ['Annapolis', 'Springfield', 'Hartford', 'Columbus']
+ C. ['Annapolis', 'Springfield', 'Hartford', 'Columbus']
+ D. ['Annapolis', 'Springfield', 'Hartford', 'Columbus']
+

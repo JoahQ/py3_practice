@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 31)
+
+50. What is the capital of Alabama?
+ A. ['Nashville', 'Providence', 'Raleigh', 'Montgomery']
+ B. ['Nashville', 'Providence', 'Raleigh', 'Montgomery']
+ C. ['Nashville', 'Providence', 'Raleigh', 'Montgomery']
+ D. ['Nashville', 'Providence', 'Raleigh', 'Montgomery']
+

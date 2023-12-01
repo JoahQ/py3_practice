@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 24)
+
+50. What is the capital of New York?
+ A. ['Tallahassee', 'Helena', 'Little Rock', 'Albany']
+ B. ['Tallahassee', 'Helena', 'Little Rock', 'Albany']
+ C. ['Tallahassee', 'Helena', 'Little Rock', 'Albany']
+ D. ['Tallahassee', 'Helena', 'Little Rock', 'Albany']
+

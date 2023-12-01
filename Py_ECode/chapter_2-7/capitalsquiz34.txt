@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 34)
+
+50. What is the capital of Connecticut?
+ A. ['Providence', 'Denver', 'Boise', 'Hartford']
+ B. ['Providence', 'Denver', 'Boise', 'Hartford']
+ C. ['Providence', 'Denver', 'Boise', 'Hartford']
+ D. ['Providence', 'Denver', 'Boise', 'Hartford']
+

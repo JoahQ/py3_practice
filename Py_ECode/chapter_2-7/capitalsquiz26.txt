@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 26)
+
+50. What is the capital of Washington?
+ A. ['Annapolis', 'Dover', 'Cheyenne', 'Olympia']
+ B. ['Annapolis', 'Dover', 'Cheyenne', 'Olympia']
+ C. ['Annapolis', 'Dover', 'Cheyenne', 'Olympia']
+ D. ['Annapolis', 'Dover', 'Cheyenne', 'Olympia']
+

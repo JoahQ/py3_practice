@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 5)
+
+50. What is the capital of New Mexico?
+ A. ['Lincoln', 'Frankfort', 'Montgomery', 'Santa Fe']
+ B. ['Lincoln', 'Frankfort', 'Montgomery', 'Santa Fe']
+ C. ['Lincoln', 'Frankfort', 'Montgomery', 'Santa Fe']
+ D. ['Lincoln', 'Frankfort', 'Montgomery', 'Santa Fe']
+

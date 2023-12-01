@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 6)
+
+50. What is the capital of Idaho?
+ A. ['Trenton', 'Nashville', 'Oklahoma City', 'Boise']
+ B. ['Trenton', 'Nashville', 'Oklahoma City', 'Boise']
+ C. ['Trenton', 'Nashville', 'Oklahoma City', 'Boise']
+ D. ['Trenton', 'Nashville', 'Oklahoma City', 'Boise']
+

@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 35)
+
+50. What is the capital of Georgia?
+ A. ['Cheyenne', 'Nashville', 'Lansing', 'Atlanta']
+ B. ['Cheyenne', 'Nashville', 'Lansing', 'Atlanta']
+ C. ['Cheyenne', 'Nashville', 'Lansing', 'Atlanta']
+ D. ['Cheyenne', 'Nashville', 'Lansing', 'Atlanta']
+

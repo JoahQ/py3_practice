@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 12)
+
+50. What is the capital of Washington?
+ A. ['Springfield', 'Salt Lake City', 'Olympia', 'Frankfort']
+ B. ['Springfield', 'Salt Lake City', 'Olympia', 'Frankfort']
+ C. ['Springfield', 'Salt Lake City', 'Olympia', 'Frankfort']
+ D. ['Springfield', 'Salt Lake City', 'Olympia', 'Frankfort']
+

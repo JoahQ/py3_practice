@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 13)
+
+50. What is the capital of New York?
+ A. ['Albany', 'Boston', 'Boise', 'Bismarck']
+ B. ['Albany', 'Boston', 'Boise', 'Bismarck']
+ C. ['Albany', 'Boston', 'Boise', 'Bismarck']
+ D. ['Albany', 'Boston', 'Boise', 'Bismarck']
+

@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 20)
+
+50. What is the capital of Washington?
+ A. ['Carson City', 'Olympia', 'Lansing', 'Richmond']
+ B. ['Carson City', 'Olympia', 'Lansing', 'Richmond']
+ C. ['Carson City', 'Olympia', 'Lansing', 'Richmond']
+ D. ['Carson City', 'Olympia', 'Lansing', 'Richmond']
+

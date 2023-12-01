@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 16)
+
+50. What is the capital of Wyoming?
+ A. ['Lincoln', 'Harrisburg', 'Cheyenne', 'Saint Paul']
+ B. ['Lincoln', 'Harrisburg', 'Cheyenne', 'Saint Paul']
+ C. ['Lincoln', 'Harrisburg', 'Cheyenne', 'Saint Paul']
+ D. ['Lincoln', 'Harrisburg', 'Cheyenne', 'Saint Paul']
+

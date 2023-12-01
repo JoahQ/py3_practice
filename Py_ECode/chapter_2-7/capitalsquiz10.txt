@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 10)
+
+50. What is the capital of Kentucky?
+ A. ['Hartford', 'Frankfort', 'Cheyenne', 'Jefferson City']
+ B. ['Hartford', 'Frankfort', 'Cheyenne', 'Jefferson City']
+ C. ['Hartford', 'Frankfort', 'Cheyenne', 'Jefferson City']
+ D. ['Hartford', 'Frankfort', 'Cheyenne', 'Jefferson City']
+

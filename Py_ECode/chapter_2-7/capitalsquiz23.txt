@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 23)
+
+50. What is the capital of Texas?
+ A. ['Helena', 'Carson City', 'Little Rock', 'Austin']
+ B. ['Helena', 'Carson City', 'Little Rock', 'Austin']
+ C. ['Helena', 'Carson City', 'Little Rock', 'Austin']
+ D. ['Helena', 'Carson City', 'Little Rock', 'Austin']
+

@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 11)
+
+50. What is the capital of Illinois?
+ A. ['Columbus', 'Jackson', 'Springfield', 'Trenton']
+ B. ['Columbus', 'Jackson', 'Springfield', 'Trenton']
+ C. ['Columbus', 'Jackson', 'Springfield', 'Trenton']
+ D. ['Columbus', 'Jackson', 'Springfield', 'Trenton']
+

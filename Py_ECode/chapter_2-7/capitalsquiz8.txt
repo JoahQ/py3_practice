@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 8)
+
+50. What is the capital of Kansas?
+ A. ['Tallahassee', 'Boise', 'Salem', 'Topeka']
+ B. ['Tallahassee', 'Boise', 'Salem', 'Topeka']
+ C. ['Tallahassee', 'Boise', 'Salem', 'Topeka']
+ D. ['Tallahassee', 'Boise', 'Salem', 'Topeka']
+

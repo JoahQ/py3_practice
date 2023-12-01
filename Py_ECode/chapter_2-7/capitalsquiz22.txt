@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 22)
+
+50. What is the capital of New York?
+ A. ['Hartford', 'Juneau', 'Montgomery', 'Albany']
+ B. ['Hartford', 'Juneau', 'Montgomery', 'Albany']
+ C. ['Hartford', 'Juneau', 'Montgomery', 'Albany']
+ D. ['Hartford', 'Juneau', 'Montgomery', 'Albany']
+

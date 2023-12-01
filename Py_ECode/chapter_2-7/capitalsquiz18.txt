@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 18)
+
+50. What is the capital of Maryland?
+ A. ['Salem', 'Annapolis', 'Saint Paul', 'Cheyenne']
+ B. ['Salem', 'Annapolis', 'Saint Paul', 'Cheyenne']
+ C. ['Salem', 'Annapolis', 'Saint Paul', 'Cheyenne']
+ D. ['Salem', 'Annapolis', 'Saint Paul', 'Cheyenne']
+

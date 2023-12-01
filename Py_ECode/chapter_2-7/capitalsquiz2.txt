@@ -1,0 +1,14 @@
+Name: 
+ 
+ Date:
+
+Period:
+
+                    State capitals Quiz (Form 2)
+
+50. What is the capital of Nebraska?
+ A. ['Columbia', 'Santa Fe', 'Sacramento', 'Lincoln']
+ B. ['Columbia', 'Santa Fe', 'Sacramento', 'Lincoln']
+ C. ['Columbia', 'Santa Fe', 'Sacramento', 'Lincoln']
+ D. ['Columbia', 'Santa Fe', 'Sacramento', 'Lincoln']
+
